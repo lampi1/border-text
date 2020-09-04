@@ -6,11 +6,16 @@ Get border-text effect by adding a single function into your JS
 
 `npm i bordertext`
 
-Then
+index.js
 
 ```
+import { bordertext } from "bordertext";
 
 bordertext("1.5px", "blue", "transparent");
+```
 
+index.html
 
+```
+<h1 class="border-text"> HELLO </h1>
 ```
