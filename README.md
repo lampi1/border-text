@@ -8,8 +8,9 @@ Get border-text effect by adding a single function into your JS
 
 Then
 
-...
+```
 
 bordertext("1.5px", "blue", "transparent");
 
-...
+
+```
